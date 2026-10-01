@@ -1,0 +1,4 @@
+FourthHaven Team Hub
+Version: V20 — Operations Update
+Build date: 2026-10-01
+Status: GitHub/Vercel-ready front-end beta; shared database sync pending.
